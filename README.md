@@ -2,21 +2,12 @@
 
 Simple Game For A kids
 
+Creating Platform By VSCode
+
 Index.html file
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Clarity</title>
-
-    <link rel="stylesheet" type="text/css" href="tyle.css" />
-
-    <script type="text/javascript" src="Clarity.js"></script>
-</head>
 
 <body>
     <canvas id="canvas"></canvas>
-
     <p>
         Use the left, right and up arrow keys to move.
     </p>
@@ -216,5 +207,3 @@ Index.html file
         
     </script>
 </body>
-
-</html>
